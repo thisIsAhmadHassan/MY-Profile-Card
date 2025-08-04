@@ -1,2 +1,2 @@
 # MY-Profile-Card
-My Profile Card usong with HTML and CSS only
+My Profile Card using with HTML and CSS only
